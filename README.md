@@ -1,4 +1,4 @@
-# Utilities in bash
+# Utilities in shell
 <div align="center">
 	<br>
 		<img src="linux.svg" width="400" height="400" >
