@@ -4,16 +4,16 @@
 		<img src="linux.svg" width="400" height="400" >
  </div>
 
-1. **Clone everyone's public repositories**
+### Clone everyone's public repositories
 
->Need permisson to run
+>To run this script, give permission to it
 
 ```
-$ chmod 777 clone_all_repo.sh
+chmod 777 clone_all_repo.sh
 ```
 
 >Run
 
 ```
-$ clone_all_repo.sh
+clone_all_repo.sh
 ```
