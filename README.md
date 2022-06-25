@@ -1,7 +1,7 @@
 # Utilities in bash
 <div align="center">
 	<br>
-		<img src="linux.svg" width="400" height="400" alt="Click to see the source">
+		<img src="linux.svg" width="400" height="400" >
  </div>
 
 **Clone everyone's public repositories**
